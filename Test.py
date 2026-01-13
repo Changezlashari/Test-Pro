@@ -1,1 +1,1 @@
-prit("Hello Python This is Demo Project, Checking Poll SCM-1")
+print("Hello Python This is Demo Project, Checking Poll SCM-1")
